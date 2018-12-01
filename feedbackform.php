@@ -17,7 +17,7 @@
     
 ?>
 
-<html class="no-js" lang="">
+<html class="no-js" lang="eng">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
